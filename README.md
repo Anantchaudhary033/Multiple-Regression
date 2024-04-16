@@ -7,10 +7,16 @@ This dataset contains information on insurance charges along with various demogr
 # variables
 #Independent variable-
 1.age: Continuous variable representing the age of the insured individual.
+
 2.sex: Categorical variable indicating the gender of the insured individual.
+
 3.bmi: Continuous variable representing the body mass index of the insured individual.
+
 4.children: Discrete variable representing the number of children or dependents covered by the insurance.
+
 5.smoker: Binary variable indicating whether the insured individual is a smoker or not.
+
 6.region: Categorical variable representing the residential area of the insured individual.
+
 #Dpendent variable-
 expenses: Continuous variable representing the insurance charges incurred by the individual.
