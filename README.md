@@ -4,7 +4,7 @@ Multiple regression is a type of regression model used to predict the value of o
 # Problem Statememt
 This dataset contains information on insurance charges along with various demographic and lifestyle factors of individuals. The dataset aims to explore the relationship between these factors and insurance expenses.
 
-# variables
+# Variables
 # Independent variable-
 
 1.age: Continuous variable representing the age of the insured individual.
@@ -19,7 +19,7 @@ This dataset contains information on insurance charges along with various demogr
 
 6.region: Categorical variable representing the residential area of the insured individual.
 
-# Dpendent variable-
+# Dependent variable-
 
 expenses: Continuous variable representing the insurance charges incurred by the individual.
 
